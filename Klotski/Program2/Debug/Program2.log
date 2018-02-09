@@ -1,0 +1,19 @@
+﻿  driver.cpp
+  dfs.cpp
+c:\users\kade\documents\college\junior\cs 438\program2\program2\dfs.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\program2\program2\dfs.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\program2\program2\dfs.cpp(194): warning C4018: '<': signed/unsigned mismatch
+  bfs.cpp
+c:\users\kade\documents\college\junior\cs 438\program2\program2\bfs.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\program2\program2\bfs.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 438\program2\program2\bfs.cpp(194): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\kade\documents\college\junior\cs 438\program2\program2\bfs.cpp(506): warning C4715: 'bfs::moveUp': not all control paths return a value
+c:\users\kade\documents\college\junior\cs 438\program2\program2\bfs.cpp(676): warning C4715: 'bfs::moveDown': not all control paths return a value
+c:\users\kade\documents\college\junior\cs 438\program2\program2\bfs.cpp(844): warning C4715: 'bfs::moveLeft': not all control paths return a value
+c:\users\kade\documents\college\junior\cs 438\program2\program2\bfs.cpp(1016): warning C4715: 'bfs::moveRight': not all control paths return a value
+c:\users\kade\documents\college\junior\cs 438\program2\program2\dfs.cpp(678): warning C4715: 'dfs::moveDown': not all control paths return a value
+c:\users\kade\documents\college\junior\cs 438\program2\program2\dfs.cpp(508): warning C4715: 'dfs::moveUp': not all control paths return a value
+c:\users\kade\documents\college\junior\cs 438\program2\program2\dfs.cpp(846): warning C4715: 'dfs::moveLeft': not all control paths return a value
+c:\users\kade\documents\college\junior\cs 438\program2\program2\dfs.cpp(1018): warning C4715: 'dfs::moveRight': not all control paths return a value
+  Program2.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 438\Program2\Debug\Program2.exe
